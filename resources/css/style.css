@@ -30,15 +30,12 @@ div, .belt{
 	background-repeat: no-repeat;
 	color: white;
 }
-background
-{
-	transform: scale(.8);
-}
 
 a{
 	font-size: 18px;
 	color: white;
 }
+
 .footer p{
 	text-align: left;
 	font-size: 11px;
